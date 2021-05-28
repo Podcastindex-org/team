@@ -82,3 +82,4 @@ This list is certainly incomplete, and likely in error.
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
 [Todd Cochrane](https://podcastindex.social/@Todd_Blubrry)  
 [Mike Neumann](https://podcastindex.social/@mikeneumann)  
+[Jeff Zellen](https://podcastindex.social/@Muppet1856)
