@@ -1,4 +1,4 @@
-# team
+# Team
 The full cast that makes Podcasting 2.0 work.
 
 As of May 24, 2021, 637 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
@@ -31,7 +31,7 @@ This list is certainly incomplete, and likely in error.
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
 [Tom Rossi](https://podcastindex.social/@tomrossi7) - Cofounder of [Buzzsprout](https://www.buzzsprout.com/)  
 [Joey](https://podcastindex.social/@joey)  
-[Seakintruth](https://podcastindex.social/@seakintruth)  
+[Jeremy D. Gerdes](https://podcastindex.social/@seakintruth) - [podping-stats](https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/) / [podping-stats-bot](https://podcastindex.social/@podping_stats_toot_bot)  
 [James Cridland](https://podcastindex.social/@jamescridland) - [podnews](https://podnews.net/)  
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/)  
 [Lehmancreations](https://podcastindex.social/@Lehmancreations)  
