@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of May 24, 2021, 637 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of June 24, 2021, 670 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -35,6 +35,7 @@ This list is certainly incomplete, and likely in error.
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
 [Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive  
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
+[Jason](https://podcastindex.social/@podcastguru)  
 [Tom Rossi](https://podcastindex.social/@tomrossi7) - Cofounder of [Buzzsprout](https://www.buzzsprout.com/)  
 [Joey](https://podcastindex.social/@joey)  
 [Andres Hubel](https://github.com/saerdnaer)  
@@ -51,6 +52,7 @@ This list is certainly incomplete, and likely in error.
 [Benjamin Bellamy](https://podcastindex.social/@benjaminbellamy) - [Castopod](https://castopod.org/)  
 [Trek TV](https://podcastindex.social/@trektv) - [Trek TV podcast](https://trektvpodcast.com)  
 [John Spurlock](https://podcastindex.social/@js)  
+[CMike](https://podcastindex.social/@CMike)  
 [SirBemrose](https://podcastindex.social/@SirBemrose)  
 [LDMartin1959](https://podcastindex.social/@LDMartin1959)  
 [Steven Crader](https://podcastindex.social/@steven) - [PodPing.watch](https://podping.watch/)  
