@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of June 24, 2021, 670 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of July 11, 2021, 765 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -34,6 +34,7 @@ This list is certainly incomplete, and likely in error.
 [Alberto Betella](https://podcastindex.social/@alberto) - [Rss.com](https://rss.com/)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
 [Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive  
+[Yassine Doghri](https://podcastindex.social/@yassinedoghri)  
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
 [Jason](https://podcastindex.social/@podcastguru)  
 [Tom Rossi](https://podcastindex.social/@tomrossi7) - Cofounder of [Buzzsprout](https://www.buzzsprout.com/)  
@@ -45,6 +46,7 @@ This list is certainly incomplete, and likely in error.
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/)  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
+[Majester IT](https://podcastindex.social/@Miyagiyoda)  
 [Jeff Pelton](https://github.com/comster)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
 [Clay Ferguson](https://fosstodon.org/@TheRealClay)  
@@ -52,6 +54,8 @@ This list is certainly incomplete, and likely in error.
 [Benjamin Bellamy](https://podcastindex.social/@benjaminbellamy) - [Castopod](https://castopod.org/)  
 [Trek TV](https://podcastindex.social/@trektv) - [Trek TV podcast](https://trektvpodcast.com)  
 [John Spurlock](https://podcastindex.social/@js)  
+[Paul](https://podcastindex.social/@sphinx_chat)  
+[Nathan Gathright](https://xoxo.zone/@nathan)  
 [CMike](https://podcastindex.social/@CMike)  
 [SirBemrose](https://podcastindex.social/@SirBemrose)  
 [LDMartin1959](https://podcastindex.social/@LDMartin1959)  
@@ -65,6 +69,7 @@ This list is certainly incomplete, and likely in error.
 [mgdell](https://podcastindex.social/@mgdell)  
 [Andrew Shell](https://github.com/andrewshell)  
 [Sam Sethi](https://podcastindex.social/@samsethi)  
+[Andi](https://podcastindex.social/@andi)  
 [Mark Hall](https://podcastindex.social/@markhallfilm) - First video on the index.  
 [knigge](https://podcastindex.social/@knigge)  
 [J Pop Pop](https://podcastindex.social/@JpaPoppopa)  
@@ -77,10 +82,12 @@ This list is certainly incomplete, and likely in error.
 [Rui Salgado](https://github.com/ruisalgado)  
 [Behind the SchEmEs](https://podcastindex.social/@behindthesch3m3s)  
 [Dave Keeshan](https://podcastindex.social/@davekeeshan)  
+[Bandrew Scott](https://pod.social/@bandrew)  
 [Andy Velencia](https://podcastindex.social/@vandys)  
 [Byron Davies](https://podcastindex.social/@byron)  
 [Micah Miller](https://podcastindex.social/@sircodesalot)  
 [shahruz](https://podcastindex.social/@shahruz)  
+[Muppet1856](https://podcastindex.social/@Muppet1856)  
 [h4cker mike](https://podcastindex.social/@h4ckermike)  
 [Indiana Jim](https://podcastindex.social/@indianajim)  
 [ChadF](https://noagendasocial.com/@farrocha)  
@@ -93,8 +100,10 @@ This list is certainly incomplete, and likely in error.
 [James of the Dudes Named Ben](https://podcastindex.social/@james)  
 [Ali Abbas](https://podcastindex.social/@aliabbas)  
 [Playapod](https://podcastindex.social/@playapod)  
+[David Medus](https://social.medusmedia.com/@medus)  
 [Howie Zhao](https://github.com/howiezhao)  
 [Claudiu Chereji](https://podcastindex.social/@Imnogenius)  
+[AntennaPod](https://fosstodon.org/@AntennaPod)  
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
 [Ian Poston](https://github.com/iposton)  
@@ -112,9 +121,11 @@ This list is certainly incomplete, and likely in error.
 [TR](https://podcastindex.social/@TR)  
 [m00se](https://podcastindex.social/@m00se)  
 [Søren Hugger Møller](https://podcastindex.social/@spiri)  
+[David Stone](https://noagendasocial.com/@davidstone)  
 [Mathis Bullinger](https://podcastindex.social/@mathis)  
 [Bigaston](https://github.com/Bigaston)  
 [Bergoz](https://podcastindex.social/@bergoz)  
+[LPS](https://masto.1146.nohost.me/@lps)  
 [Wolf](https://github.com/vv01f)  
 [Uriel1339](https://podcastindex.social/@uriel1339)  
 [N4VX](https://podcastindex.social/@N4VX)  
@@ -123,6 +134,7 @@ This list is certainly incomplete, and likely in error.
 [stpp2](https://github.com/stpp2)  
 [Pedro Goncalves](https://github.com/pedromvpg)  
 [Sarasti Nishi](https://podcastindex.social/@sarasti)  
+[thebeard](https://mastodon.social/@thebeard)  
 [Tylerlacy](https://github.com/tylerlacy)  
 [Tim Goudriaan](https://podcastindex.social/@codedmonkey)  
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
@@ -135,4 +147,3 @@ This list is certainly incomplete, and likely in error.
 [Amorphous](https://github.com/amorphous)  
 [dowodenum](https://github.com/dowodenum)  
 [mikek999](https://github.com/mikek999)  
-
