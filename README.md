@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of July 11, 2021, 765 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of August 6, 2021, 838 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -56,6 +56,7 @@ This list is certainly incomplete, and likely in error.
 [John Spurlock](https://podcastindex.social/@js)  
 [Paul](https://podcastindex.social/@sphinx_chat)  
 [Nathan Gathright](https://xoxo.zone/@nathan)  
+[Kyrin Down](https://podcastindex.social/@Meremortals)  
 [CMike](https://podcastindex.social/@CMike)  
 [SirBemrose](https://podcastindex.social/@SirBemrose)  
 [LDMartin1959](https://podcastindex.social/@LDMartin1959)  
@@ -103,6 +104,7 @@ This list is certainly incomplete, and likely in error.
 [David Medus](https://social.medusmedia.com/@medus)  
 [Howie Zhao](https://github.com/howiezhao)  
 [Claudiu Chereji](https://podcastindex.social/@Imnogenius)  
+[Richard Frost](https://podcastindex.social/@rfrost)  
 [AntennaPod](https://fosstodon.org/@AntennaPod)  
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
@@ -113,6 +115,8 @@ This list is certainly incomplete, and likely in error.
 [y20k](https://github.com/y20k)  
 [Chris Charabaruk](https://github.com/coldacid)  
 [Besiuk](https://github.com/Besiuk)  
+[Kevin Finn](https://podcastindex.social/@kfinn)  
+[Darrin Jillson](https://podcastindex.social/@darrinjillson)  
 [Bobby Burden](https://github.com/brb3)  
 [Siebe](https://github.com/Siebe)  
 [Ben Hills](https://github.com/amugofjava)  
@@ -136,11 +140,13 @@ This list is certainly incomplete, and likely in error.
 [Sarasti Nishi](https://podcastindex.social/@sarasti)  
 [thebeard](https://mastodon.social/@thebeard)  
 [Tylerlacy](https://github.com/tylerlacy)  
+[Sir Peet](https://podcastindex.social/@sirpeet)  
 [Tim Goudriaan](https://podcastindex.social/@codedmonkey)  
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
 [Philipp Klose](https://github.com/TheHippo)  
 [Todd Cochrane](https://podcastindex.social/@Todd_Blubrry)  
 [Pof Magicfingers](https://github.com/PofMagicfingers)  - [Podcloud](https://github.com/podCloud)  
+[Lucas](https://noagendasocial.com/@Lucasvos)  
 [Mike Neumann](https://podcastindex.social/@mikeneumann)  
 [Jeff Zellen](https://podcastindex.social/@Muppet1856)
 [Fredrik Björeman](https://github.com/bjoreman)  
