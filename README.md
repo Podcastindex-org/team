@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of August 6, 2021, 838 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of August 14, 2021, 853 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -10,7 +10,7 @@ This list is certainly incomplete, and likely in error.
 [Dave Jones](https://podcastindex.social/@dave)  
 [Adam Curry](https://podcastindex.social/@adam)  
 [Aric](https://podcastindex.social/@aric)  
-[Drebscott](https://podcastindex.social/@Drebscott)  
+[Drebscott](https://podcastindex.social/@Drebscott) - stacking Sats creating Chapters by the bushel.   
 [Martin Mouritzen](https://podcastindex.social/@martin) - [Podfriend](https://www.podfriend.com/)  
 [baxter](https://podcastindex.social/@baxter) - [Podcast Index XSD](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/schema/podcast-schema.md)  
 [CSB Comic Strip Blogger](https://podcastindex.social/@csb) - [CSB's cartoons and strips](https://comicstripblog.com/)  
@@ -22,10 +22,12 @@ This list is certainly incomplete, and likely in error.
 [Daniel J. Lewis](https://podcastindex.social/@theDanielJLewis) - [Podcast Industry Insights](https://podcastindustryinsights.com/)  
 [Prem](https://podcastindex.social/@Premitive1) - [Premcast](https://premcast.net)  
 [patrick](https://podcastindex.social/@patrick)  
+[dergigi](https://github.com/dergigi)  
 [snookfin](https://github.com/snookfin)  
 [Benjamin Johson](https://github.com/BennyKJohnson)  
 [Mitch Downey](https://podcastindex.social/@mitch) - [Podverse.fm](https://podverse.fm/)  
-[Max Hillebrand](https://podcastindex.social/@maxhillebrand)  
+[Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom Guest on Podcasting 2.0 Episode 50.
+[Mike Clark](https://podcastindex.social/@Aerostatica) - Coined the term "Boostagram" for the message accompanying a "Boost"; enabled by Podcasting 2.0-enlightened apps and services  
 [Aaron](https://podcastindex.social/@aaron)  
 [Steven Bell](https://podcastindex.social/@StevenB) - [CurioCaster](https://curiocaster.com/)  
 [Ben@rss.com](https://podcastindex.social/@Ben)  
@@ -34,6 +36,7 @@ This list is certainly incomplete, and likely in error.
 [Alberto Betella](https://podcastindex.social/@alberto) - [Rss.com](https://rss.com/)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
 [Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive  
+[Oscar Merry](https://podcastindex.social/@merryoscar) of [fountain.fm](https://www.fountain.fm/)  
 [Yassine Doghri](https://podcastindex.social/@yassinedoghri)  
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
 [Jason](https://podcastindex.social/@podcastguru)  
@@ -45,6 +48,7 @@ This list is certainly incomplete, and likely in error.
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/)  
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/)  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
+[AbleKirby](https://podcastindex.social/@ablekirby)  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
 [Majester IT](https://podcastindex.social/@Miyagiyoda)  
 [Jeff Pelton](https://github.com/comster)  
@@ -71,6 +75,8 @@ This list is certainly incomplete, and likely in error.
 [Andrew Shell](https://github.com/andrewshell)  
 [Sam Sethi](https://podcastindex.social/@samsethi)  
 [Andi](https://podcastindex.social/@andi)  
+[Michael Peloquin](https://github.com/mmp7700)  
+[Chad Farrow](https://podcastindex.social/@ChadF)  
 [Mark Hall](https://podcastindex.social/@markhallfilm) - First video on the index.  
 [knigge](https://podcastindex.social/@knigge)  
 [J Pop Pop](https://podcastindex.social/@JpaPoppopa)  
@@ -90,6 +96,7 @@ This list is certainly incomplete, and likely in error.
 [shahruz](https://podcastindex.social/@shahruz)  
 [Muppet1856](https://podcastindex.social/@Muppet1856)  
 [h4cker mike](https://podcastindex.social/@h4ckermike)  
+[Carlos Escura](https://github.com/carlosescura)  
 [Indiana Jim](https://podcastindex.social/@indianajim)  
 [ChadF](https://noagendasocial.com/@farrocha)  
 [Duke](https://github.com/dukex) - [megafono.host](https://www.megafono.host/)  
@@ -113,6 +120,7 @@ This list is certainly incomplete, and likely in error.
 [Konstantin Yurchenko, Jr.](https://github.com/masterial)  
 [Thomas Barrasso](https://github.com/masterial)  
 [y20k](https://github.com/y20k)  
+[Josh Chen](https://github.com/montekaka)  
 [Chris Charabaruk](https://github.com/coldacid)  
 [Besiuk](https://github.com/Besiuk)  
 [Kevin Finn](https://podcastindex.social/@kfinn)  
@@ -149,7 +157,7 @@ This list is certainly incomplete, and likely in error.
 [Lucas](https://noagendasocial.com/@Lucasvos)  
 [Mike Neumann](https://podcastindex.social/@mikeneumann)  
 [Jeff Zellen](https://podcastindex.social/@Muppet1856)
-[Fredrik Björeman](https://github.com/bjoreman)  
+[Fredrik Björeman](https://github.com/bjoreman) - creator of [Podcast Chapters](https://chaptersapp.com/) app.  
 [Amorphous](https://github.com/amorphous)  
 [dowodenum](https://github.com/dowodenum)  
 [mikek999](https://github.com/mikek999)  
