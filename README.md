@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of August 21, 2021, 871 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of August 29, 2021, 884 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -59,6 +59,7 @@ This list is certainly incomplete, and likely in error.
 [Trek TV](https://podcastindex.social/@trektv) - [Trek TV podcast](https://trektvpodcast.com)  
 [John Spurlock](https://podcastindex.social/@js)  
 [Paul](https://podcastindex.social/@sphinx_chat)  
+[Steffen](https://podcastindex.social/@sws)  
 [Nathan Gathright](https://xoxo.zone/@nathan)  
 [Kyrin Down](https://podcastindex.social/@Meremortals)  
 [CMike](https://podcastindex.social/@CMike)  
@@ -77,6 +78,7 @@ This list is certainly incomplete, and likely in error.
 [Sam Sethi](https://podcastindex.social/@samsethi)  
 [Andi](https://podcastindex.social/@andi)  
 [Michael Peloquin](https://github.com/mmp7700)  
+[LOUD](https://podcastindex.social/@LOUD)  
 [Chad Farrow](https://podcastindex.social/@ChadF)  
 [Mark Hall](https://podcastindex.social/@markhallfilm) - First video on the index.  
 [knigge](https://podcastindex.social/@knigge)  
@@ -118,6 +120,7 @@ This list is certainly incomplete, and likely in error.
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
 [Ian Poston](https://github.com/iposton)  
+[Podcast Addict](https://podcastindex.social/@podcastaddict)  
 [Keunes](https://github.com/keunes)  
 [Konstantin Yurchenko, Jr.](https://github.com/masterial)  
 [Thomas Barrasso](https://github.com/masterial)  
@@ -140,6 +143,7 @@ This list is certainly incomplete, and likely in error.
 [Bigaston](https://github.com/Bigaston)  
 [Bergoz](https://podcastindex.social/@bergoz)  
 [LPS](https://masto.1146.nohost.me/@lps)  
+[Mike Van Heyde](https://podcastindex.social/@ivy)  
 [Wolf](https://github.com/vv01f)  
 [Scott](https://podcastindex.social/@maxburn)  
 [Uriel1339](https://podcastindex.social/@uriel1339)  
@@ -149,6 +153,7 @@ This list is certainly incomplete, and likely in error.
 [stpp2](https://github.com/stpp2)  
 [Pedro Goncalves](https://github.com/pedromvpg)  
 [Sarasti Nishi](https://podcastindex.social/@sarasti)  
+[Myron Weber](https://podcastindex.social/@myron)  
 [thebeard](https://mastodon.social/@thebeard)  
 [Tylerlacy](https://github.com/tylerlacy)  
 [Sir Spencer, Wolf of KC](https://podcastindex.social/@SirSpencer)  
