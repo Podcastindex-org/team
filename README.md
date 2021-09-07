@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of August 29, 2021, 884 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of September 6, 2021, 891 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -120,11 +120,13 @@ This list is certainly incomplete, and likely in error.
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
 [Ian Poston](https://github.com/iposton)  
+[staceygoers](https://podcastindex.social/@staceygoers)  
 [Podcast Addict](https://podcastindex.social/@podcastaddict)  
 [Keunes](https://github.com/keunes)  
 [Konstantin Yurchenko, Jr.](https://github.com/masterial)  
 [Thomas Barrasso](https://github.com/masterial)  
 [y20k](https://github.com/y20k)  
+[Chris803019](https://podcastindex.social/@Chris803019)  
 [Josh Chen](https://github.com/montekaka)  
 [Chris Charabaruk](https://github.com/coldacid)  
 [Besiuk](https://github.com/Besiuk)  
