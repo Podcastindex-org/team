@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of September 6, 2021, 891 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of September 12, 2021, 900 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -22,14 +22,15 @@ This list is certainly incomplete, and likely in error.
 [Daniel J. Lewis](https://podcastindex.social/@theDanielJLewis) - [Podcast Industry Insights](https://podcastindustryinsights.com/)  
 [Prem](https://podcastindex.social/@Premitive1) - [Premcast](https://premcast.net)  
 [patrick](https://podcastindex.social/@patrick)  
+[Podcaster @OKIN_17](https://linktr.ee/FromTheJump) - Boardroom guest on Podcasting 2.0 Episode 52
 [dergigi](https://github.com/dergigi)  
 [snookfin](https://github.com/snookfin)  
 [Benjamin Johson](https://github.com/BennyKJohnson)  
 [Mitch Downey](https://podcastindex.social/@mitch) - [Podverse.fm](https://podverse.fm/)  
-[Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom Guest on Podcasting 2.0 Episode 50.  
+[Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom guest on Podcasting 2.0 Episode 50.  
 [Mike Clark](https://podcastindex.social/@Aerostatica) - Coined the term "Boostagram" for the message accompanying a "Boost"; enabled by Podcasting 2.0-enlightened apps and services  
 [Aaron](https://podcastindex.social/@aaron)  
-[Steven Bell](https://podcastindex.social/@StevenB) - [CurioCaster](https://curiocaster.com/)  
+[Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) in feed authoring mode)  
 [Ben@rss.com](https://podcastindex.social/@Ben)  
 [Ben Slinger](https://github.com/bslinger)  
 [Ryan Brunner](https://github.com/BennyKJohnson)  
@@ -52,6 +53,7 @@ This list is certainly incomplete, and likely in error.
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
 [Majester IT](https://podcastindex.social/@Miyagiyoda)  
 [Jeff Pelton](https://github.com/comster)  
+[PJ Brunet](https://bitcoinhackers.org/@pj)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
 [Clay Ferguson](https://fosstodon.org/@TheRealClay)  
 [Kyle Hebert](https://podcastindex.social/@kyle) - [The Intergalactic Boom Box](https://podcastindex.org/podcast/3758236)  
@@ -63,11 +65,12 @@ This list is certainly incomplete, and likely in error.
 [Nathan Gathright](https://xoxo.zone/@nathan)  
 [Kyrin Down](https://podcastindex.social/@Meremortals)  
 [CMike](https://podcastindex.social/@CMike)  
+[Chris L-W](https://podcastindex.social/@chrislw)  
 [SirBemrose](https://podcastindex.social/@SirBemrose)  
 [Satoshis Stream](https://podcastindex.social/@satoshisstream) - might be a bot. probably not a bot. Friendly. Helpful. Informative.  
 [LDMartin1959](https://podcastindex.social/@LDMartin1959)  
 [Steven Crader](https://podcastindex.social/@steven) - [PodPing.watch](https://podping.watch/)  
-[Ville of Finland](https://podcastindex.social/@ville) - [Elm Hivehydra watcher](https://hivehydra.netlify.app/)  
+[Ville of Finland](https://podcastindex.social/@ville) - Creator of [Poddery](https://poddery.netlify.app/) and [Elm Hivehydra watcher](https://hivehydra.netlify.app/)  
 [Franco](https://podcastindex.social/@francosolerio) - [Castamatic](https://castamatic.com/)  
 [Dame Jennifer](https://podcastindex.social/@jennifer) - [Anamated No Agenda](https://noagendatube.com/video-channels/animated_no_agenda/videos)  
 [Baxter Tidwell](https://github.com/betpagal)  
