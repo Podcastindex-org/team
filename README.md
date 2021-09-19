@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of September 12, 2021, 900 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of September 18, 2021, 906 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -52,6 +52,7 @@ This list is certainly incomplete, and likely in error.
 [AbleKirby](https://podcastindex.social/@ablekirby) - Co-host of the [Rare Encounter](https://rareencounter.net/) podcast  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
 [Majester IT](https://podcastindex.social/@Miyagiyoda)  
+[Gary Arndt](https://podcastindex.social/@EverythingEverywhere)  
 [Jeff Pelton](https://github.com/comster)  
 [PJ Brunet](https://bitcoinhackers.org/@pj)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
@@ -65,6 +66,7 @@ This list is certainly incomplete, and likely in error.
 [Nathan Gathright](https://xoxo.zone/@nathan)  
 [Kyrin Down](https://podcastindex.social/@Meremortals)  
 [CMike](https://podcastindex.social/@CMike)  
+[Clay](https://mastodon.technology/@wclayf)  
 [Chris L-W](https://podcastindex.social/@chrislw)  
 [SirBemrose](https://podcastindex.social/@SirBemrose)  
 [Satoshis Stream](https://podcastindex.social/@satoshisstream) - might be a bot. probably not a bot. Friendly. Helpful. Informative.  
@@ -137,7 +139,7 @@ This list is certainly incomplete, and likely in error.
 [Darrin Jillson](https://podcastindex.social/@darrinjillson)  
 [Bobby Burden](https://github.com/brb3)  
 [Siebe](https://github.com/Siebe)  
-[Ben Hills](https://github.com/amugofjava)  
+[Ben Hills](https://github.com/amugofjava) Developer of the open-source [Anytime Podcast Player](https://anytimeplayer.app/)  
 [AbelLykens](https://github.com/AbelLykens)  
 [Todd](https://github.com/tmsoft)  
 [TR](https://podcastindex.social/@TR)  
