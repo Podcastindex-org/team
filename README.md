@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of September 18, 2021, 906 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of September 27, 2021, 920 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -33,6 +33,7 @@ This list is certainly incomplete, and likely in error.
 [Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) in feed authoring mode)  
 [Ben@rss.com](https://podcastindex.social/@Ben)  
 [Ben Slinger](https://github.com/bslinger)  
+[blackberrybat](https://podcastindex.social/@blackberrybat)  
 [Ryan Brunner](https://github.com/BennyKJohnson)  
 [Alberto Betella](https://podcastindex.social/@alberto) - [Rss.com](https://rss.com/)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
@@ -124,9 +125,11 @@ This list is certainly incomplete, and likely in error.
 [AntennaPod](https://fosstodon.org/@AntennaPod)  
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
+[Kolomona](https://podcastindex.social/@Kolomona)  
 [Ian Poston](https://github.com/iposton)  
 [staceygoers](https://podcastindex.social/@staceygoers)  
 [Podcast Addict](https://podcastindex.social/@podcastaddict)  
+[Conley Owens](https://github.com/cco3)  
 [Keunes](https://github.com/keunes)  
 [Konstantin Yurchenko, Jr.](https://github.com/masterial)  
 [Thomas Barrasso](https://github.com/masterial)  
@@ -168,6 +171,7 @@ This list is certainly incomplete, and likely in error.
 [Tim Goudriaan](https://podcastindex.social/@codedmonkey)  
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
 [Philipp Klose](https://github.com/TheHippo)  
+[misener](https://github.com/misener)  
 [Todd Cochrane](https://podcastindex.social/@Todd_Blubrry)  
 [Pof Magicfingers](https://github.com/PofMagicfingers)  - [Podcloud](https://github.com/podCloud)  
 [Lucas](https://noagendasocial.com/@Lucasvos)  
