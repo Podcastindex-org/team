@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of September 27, 2021, 920 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of October 10, 2021, 934 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -24,6 +24,7 @@ This list is certainly incomplete, and likely in error.
 [patrick](https://podcastindex.social/@patrick)  
 [Podcaster @OKIN_17](https://linktr.ee/FromTheJump) - Boardroom guest on Podcasting 2.0 Episode 52
 [dergigi](https://github.com/dergigi)  
+[Graham Krizek](https://blog.getvoltage.io/author/graham/) - Founder and CEO of [Voltage](https://voltage.cloud/). Boardroom guest on Podcasting 2.0 Episode 56
 [snookfin](https://github.com/snookfin)  
 [Benjamin Johson](https://github.com/BennyKJohnson)  
 [Mitch Downey](https://podcastindex.social/@mitch) - [Podverse.fm](https://podverse.fm/)  
@@ -37,7 +38,7 @@ This list is certainly incomplete, and likely in error.
 [Ryan Brunner](https://github.com/BennyKJohnson)  
 [Alberto Betella](https://podcastindex.social/@alberto) - [Rss.com](https://rss.com/)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
-[Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive  
+[Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive. Boardroom guest on Podcasting 2.0 Episode 57.   
 [Oscar Merry](https://podcastindex.social/@merryoscar) of [fountain.fm](https://www.fountain.fm/)  
 [Yassine Doghri](https://podcastindex.social/@yassinedoghri)  
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
@@ -48,13 +49,15 @@ This list is certainly incomplete, and likely in error.
 [Jeremy D. Gerdes](https://podcastindex.social/@seakintruth) - [podping-stats](https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/) / [podping-stats-bot](https://podcastindex.social/@podping_stats_toot_bot)  
 [James Cridland](https://podcastindex.social/@jamescridland) - [podnews](https://podnews.net/)  
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/)  
-[Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/)  
+[Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/) - contributor of code for Episode level value splits.  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
+[Adam Portrais](https://podcastindex.social/@adamportrais)  
 [AbleKirby](https://podcastindex.social/@ablekirby) - Co-host of the [Rare Encounter](https://rareencounter.net/) podcast  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
 [Majester IT](https://podcastindex.social/@Miyagiyoda)  
 [Gary Arndt](https://podcastindex.social/@EverythingEverywhere)  
 [Jeff Pelton](https://github.com/comster)  
+[Carolyn In the Smoker [ONT]](https://podcastindex.social/@blaney)  
 [PJ Brunet](https://bitcoinhackers.org/@pj)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
 [Clay Ferguson](https://fosstodon.org/@TheRealClay)  
@@ -108,6 +111,7 @@ This list is certainly incomplete, and likely in error.
 [h4cker mike](https://podcastindex.social/@h4ckermike)  
 [Carlos Escura](https://github.com/carlosescura)  
 [Indiana Jim](https://podcastindex.social/@indianajim)  
+[william maggot̶s](https://liberal.city/@wjmaggos)  
 [ChadF](https://noagendasocial.com/@farrocha)  
 [Duke](https://github.com/dukex) - [megafono.host](https://www.megafono.host/)  
 [Ryan Hirsch](https://podcastindex.social/@RyanHirsch)  
