@@ -9,7 +9,7 @@ This list is certainly incomplete, and likely in error.
 
 [Dave Jones](https://podcastindex.social/@dave) - Chief Juggler of All The Things(TM)  
 [Adam Curry](https://podcastindex.social/@adam) - The Podfather(TM); bringer of vision  
-[Aric Mackie](https://podcastindex.social/@aric) - The Swiss Army Knife of the Index(TM), aka Shipper of Shirts - Appeared at his own Boardroom meeting in [Podcasting 2.0 Episode 35](http://adam.curry.com/html/PC203520210430Podcas-6cKvbPGTmjrbwCdHNtWZ6R9D3lH9mq.html). 
+[Aric Mackie](https://podcastindex.social/@aric) - The Swiss Army Knife of the Index(TM), aka Shipper of Shirts - Appeared at his own Boardroom meeting in [Podcasting 2.0 Episode 35](http://adam.curry.com/html/PC203520210430Podcas-6cKvbPGTmjrbwCdHNtWZ6R9D3lH9mq.html).  
 [Drebscott](https://podcastindex.social/@Drebscott) - stacking Sats creating Chapters by the bushel.   
 [Martin Mouritzen](https://podcastindex.social/@martin) - [Podfriend](https://www.podfriend.com/)  
 [baxter](https://podcastindex.social/@baxter) - [Podcast Index XSD](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/schema/podcast-schema.md)  
@@ -24,29 +24,28 @@ This list is certainly incomplete, and likely in error.
 [patrick](https://podcastindex.social/@patrick)  
 [Podcaster @OKIN_17](https://linktr.ee/FromTheJump) - Boardroom guest on Podcasting 2.0 Episode 52.  
 [dergigi](https://github.com/dergigi)  
-[Graham Krizek](https://blog.getvoltage.io/author/graham/) - Founder and CEO of [Voltage](https://voltage.cloud/). Boardroom guest on Podcasting 2.0 Episode 56.  
+[Graham Krizek](https://blog.getvoltage.io/author/graham/) - Founder and CEO of [Voltage](https://voltage.cloud/). Boardroom guest on Podcasting 2.0 Episode 56  
 [snookfin](https://github.com/snookfin)  
 [Benjamin Johson](https://github.com/BennyKJohnson)  
 [Mitch Downey](https://podcastindex.social/@mitch) - [Podverse.fm](https://podverse.fm/) - Boardroom guest on [Podcasting 2.0 Episode 30](http://adam.curry.com/html/PC203020210326Podcas-Jf586kR7hjcFrcj0zrdNZBxMfh8ZPk.html)  
-[Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom guest on [Podcasting 2.0 Episode 50](http://adam.curry.com/html/PC205020210813Podcas-n6KRZ4qb827P30PgBqfRCtG1BHk0kP.html).  
+[Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom guest on [Podcasting 2.0 Episode 50](http://adam.curry.com/html/PC205020210813Podcas-n6KRZ4qb827P30PgBqfRCtG1BHk0kP.html)  
 [Mike Clark](https://podcastindex.social/@Aerostatica) - Coined the term "Boostagram" for the message accompanying a "Boost"; enabled by Podcasting 2.0-enlightened apps and services  
 [Aaron](https://podcastindex.social/@aaron)  
-[Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) in feed authoring mode) - Boardroom guest on [Podcasting 2.0 Episode 48](http://adam.curry.com/html/PC204820210730Podcas-87zv2trwWQxcBVJpmPGSLqxnV5Lqtz.html).   
+[Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) in feed authoring mode) - Boardroom guest on [Podcasting 2.0 Episode 48](http://adam.curry.com/html/PC204820210730Podcas-87zv2trwWQxcBVJpmPGSLqxnV5Lqtz.html)   
 [Ben@rss.com](https://podcastindex.social/@Ben)  
-[Dan Benjamin](https://podcastindex.social/@danbenjamin) - Founder of [fireside.fm](https://fireside.fm/). Two-time Boardroom guest on Podcasting 2.0 [Episode 13](http://adam.curry.com/html/PC201220201127Podcas-klTpVKlpsJHrs2MMpQlpMw8fkQftTG.html) and [Episode 18](http://adam.curry.com/html/PC201820210101Podcas-s2NPqCPs1FbkckGgWVpxMG6fgL9JVH.html).  
+[Dan Benjamin](https://podcastindex.social/@danbenjamin) - Founder of [fireside.fm](https://fireside.fm/). Two-time Boardroom guest on Podcasting 2.0 [Episode 13](http://adam.curry.com/html/PC201220201127Podcas-klTpVKlpsJHrs2MMpQlpMw8fkQftTG.html) and [Episode 18](http://adam.curry.com/html/PC201820210101Podcas-s2NPqCPs1FbkckGgWVpxMG6fgL9JVH.html)  
 [Ben Slinger](https://github.com/bslinger)  
 [blackberrybat](https://podcastindex.social/@blackberrybat)  
 [Ryan Brunner](https://github.com/BennyKJohnson)  
-Ben Richardson - [Rss.com](https://rss.com/). Boardroom guest on [Podcasting 2.0 Episode 22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html).
-[Alberto Betella](https://podcastindex.social/@alberto) - [Rss.com](https://rss.com/). Boardroom guest on [Podcasting 2.0 Episode 22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html).  
+Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [Rss.com](https://rss.com/) - Boardroom guests on [Podcasting 2.0 Episode 22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
 [Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive. Boardroom guest on [Podcasting 2.0 Episode 57](http://adam.curry.com/html/PC205720211008Podcas-Z7qSx1X16NGXDBv7d7Nb7F4tsMjr9w.html).   
-[Oscar Merry](https://podcastindex.social/@merryoscar) of [fountain.fm](https://www.fountain.fm/). Boardroom guest on Podcasting 2.0 Episode 59.  
+[Oscar Merry](https://podcastindex.social/@merryoscar) of [fountain.fm](https://www.fountain.fm/). Boardroom guest on Podcasting 2.0 Episode 59  
 [Yassine Doghri](https://podcastindex.social/@yassinedoghri)  
 [Mark Asquith](https://podcastindex.social/@MrAsquith) and [Kieran McKeefery](https://podcastindex.social/@kieranmckeefery) of [Captivate.FM](https://www.captivate.fm/) - Boardroom guests on [Podcasting 2.0 Episode 34](http://adam.curry.com/html/PC203420210423Podcas-DF1zdlG5NcJV1PlHvL4tZLjSFBlxXT.html)  
 [Christopher Isene](https://podcastindex.social/@cisene) - [Keybase](https://keybase.io/cisene)  
 [Jason](https://podcastindex.social/@podcastguru)  
-[Ryan Gentry](https://lightninglabs.substack.com/) aka "the Major-Domo of the Lightning Network" - Boardroom guest on [Podcasting 2.0 Episode 32](http://adam.curry.com/html/PC203220210409Podcas-vwpdV3CNhhvMjJpsMv3Ms1T7hHQmjF.html).  
+[Ryan Gentry](https://lightninglabs.substack.com/) aka "the Major-Domo of the Lightning Network" - Boardroom guest on [Podcasting 2.0 Episode 32](http://adam.curry.com/html/PC203220210409Podcas-vwpdV3CNhhvMjJpsMv3Ms1T7hHQmjF.html)  
 [Tom Rossi](https://podcastindex.social/@tomrossi7) - Cofounder of [Buzzsprout](https://www.buzzsprout.com/)  
 [Joey](https://podcastindex.social/@joey)  
 [Andres Hubel](https://github.com/saerdnaer)  
@@ -92,7 +91,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Einundzwanzig](https://podcastindex.social/@einundzwanzig) - [Einundzwanzig podcast](https://einundzwanzig.space/)  
 [mgdell](https://podcastindex.social/@mgdell)  
 [Andrew Shell](https://github.com/andrewshell)  
-[Sam Sethi](https://podcastindex.social/@samsethi) of [POD LAND](https://podland.com/) - Boardroom guest on [Podcasting 2.0 Episode 54](http://adam.curry.com/html/PC203120210402Podcas-z6N0LFfJlnpR5wCq0rqchlN3sFBHn9.html).  
+[Sam Sethi](https://podcastindex.social/@samsethi) of [POD LAND](https://podland.com/) - Boardroom guest on [Podcasting 2.0 Episode 54](http://adam.curry.com/html/PC203120210402Podcas-z6N0LFfJlnpR5wCq0rqchlN3sFBHn9.html)  
 [Derpaderp](https://podcastindex.social/@Derpaderp)  
 [Andi](https://podcastindex.social/@andi)  
 [Michael Peloquin](https://github.com/mmp7700)  
