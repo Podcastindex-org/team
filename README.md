@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of November 13, 2021, 971 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of November 26, 2021, 986 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -67,6 +67,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Carolyn In the Smoker [ONT]](https://podcastindex.social/@blaney)  
 [Haas McCook](https://hassmccook.medium.com/) - Bitcoin Evangelist. Boardroom guest on [Podcasting 2.0 Episode 54](http://adam.curry.com/html/PC205420210917Podcas-bxSsTNn1z0KbP5KMMBxT8rtNZBHpXW.html) taking head-on the bitcoin energy usage canard.  
 [PJ Brunet](https://bitcoinhackers.org/@pj)  
+[unfa](https://mastodon.social/@unfa)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
 [Clay Ferguson](https://fosstodon.org/@TheRealClay)  
 [Kyle Hebert](https://podcastindex.social/@kyle) - [The Intergalactic Boom Box](https://podcastindex.org/podcast/3758236)  
@@ -87,7 +88,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [LDMartin1959](https://podcastindex.social/@LDMartin1959)  
 [Steven Crader](https://podcastindex.social/@steven) - [PodPing.watch](https://podping.watch/)  
 [Ville of Finland](https://podcastindex.social/@ville) - Creator of [Poddery](https://poddery.netlify.app/) and [Elm Hivehydra watcher](https://hivehydra.netlify.app/)  
-[Franco](https://podcastindex.social/@francosolerio) - [Castamatic](https://castamatic.com/)  
+[Franco Solerio](https://podcastindex.social/@francosolerio) - [Castamatic](https://castamatic.com/) - Boardroom guest on [Podcasting 2.0 Episode 63](http://adam.curry.com/html/PC206320211119Podcas-CBrjDCvkN0tR8gKZWkDXVzTKT8Mzv6.html)  
 [Dame Jennifer](https://podcastindex.social/@jennifer) - [Anamated No Agenda](https://noagendatube.com/video-channels/animated_no_agenda/videos)  
 [Baxter Tidwell](https://github.com/betpagal)  
 [MeanderingPodcaster](https://podcastindex.social/@MeanderingPodcaster)  
@@ -112,10 +113,12 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Rui Salgado](https://github.com/ruisalgado)  
 [Behind the SchEmEs](https://podcastindex.social/@behindthesch3m3s)  
 [Dave Keeshan](https://podcastindex.social/@davekeeshan)  
+[ridethelightning](https://podcastindex.social/@ridethelightning)  
 [BaronCC](https://podcastindex.social/@BaronCC)  
 [Bandrew Scott](https://pod.social/@bandrew)  
 [Steve Wilkinson(cgWerks)](https://podcastindex.social/@cgWerks)  
 [Paul Erskine](https://podcastindex.social/@perskine)  
+[David Bucienski](https://noagendasocial.com/@DavidB)  
 [Andy Velencia](https://podcastindex.social/@vandys)  
 [Jester Sk00n of Pooland](https://noagendasocial.com/@PawelK)  
 [Byron Davies](https://podcastindex.social/@byron)  
@@ -188,6 +191,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Wolf](https://github.com/vv01f)  
 [Scott](https://podcastindex.social/@maxburn)  
 [Uriel1339](https://podcastindex.social/@uriel1339)  
+[jstnplmr](https://podcastindex.social/@jstnplmr)  
 [N4VX](https://podcastindex.social/@N4VX)  
 [Yassine Doghri](https://github.com/yassinedoghri)  
 [William Entriken](https://github.com/fulldecent)  
