@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of November 26, 2021, 986 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of December 10, 2021, 998 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -74,9 +74,11 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Benjamin Bellamy](https://podcastindex.social/@benjaminbellamy) - [Castopod](https://castopod.org/) - Boardroom guest on [Podcasting 2.0 Episode 29](http://adam.curry.com/html/PC202920210319Podcas-zWMn5T8bHKPR2fCbt7KWv50RsCtstf.html)  
 [Trek TV](https://podcastindex.social/@trektv) - [Trek TV podcast](https://trektvpodcast.com)  
 [John Spurlock](https://podcastindex.social/@js)  
+[Adam Drago](https://podcastindex.social/@atdrago)  
 [Paul](https://podcastindex.social/@sphinx_chat)  
 [Steffen](https://podcastindex.social/@sws)  
 [Mark Koberlein](https://podcastindex.social/@mkober)  
+[Kahlil Lechelt](https://podcastindex.social/@kahlil) - UI Guy  
 [Nathan Gathright](https://xoxo.zone/@nathan)  
 [Kyrin Down](https://podcastindex.social/@Meremortals)  
 [CMike](https://podcastindex.social/@CMike)  
@@ -130,6 +132,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [h4cker mike](https://podcastindex.social/@h4ckermike)  
 [Yaël Ossowski](https://podcastindex.social/@yael)  
 [Carlos Escura](https://github.com/carlosescura)  
+[Edvinas Urbasius](https://podcastindex.social/@edvinasurbasius)  
 [derek](https://podcastindex.social/@derek)  
 [Indiana Jim](https://podcastindex.social/@indianajim)  
 [william maggot̶s](https://liberal.city/@wjmaggos)  
@@ -148,6 +151,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Claudiu Chereji](https://podcastindex.social/@Imnogenius)  
 [claudchereji](https://podcastindex.social/@claudchereji)  
 [Richard Frost](https://podcastindex.social/@rfrost)  
+[Dude named Ben not named Ben](https://noagendasocial.com/@cam)  
 [AntennaPod](https://fosstodon.org/@AntennaPod)  
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
@@ -197,6 +201,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [William Entriken](https://github.com/fulldecent)  
 [beachbar](https://bitcoinhackers.org/@beachbardave)  
 [stpp2](https://github.com/stpp2)  
+[XRCB](https://podcastindex.social/@xrcb)  
 [Pedro Goncalves](https://github.com/pedromvpg)  
 [Sarasti Nishi](https://podcastindex.social/@sarasti)  
 [Myron Weber](https://podcastindex.social/@myron)  
