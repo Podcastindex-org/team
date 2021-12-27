@@ -1,13 +1,13 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of December 10, 2021, 998 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.
+As of December 27, 2021, ~1,010 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.  
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
 This list is certainly incomplete, and likely in error.
 
-[Dave Jones](https://podcastindex.social/@dave) - Chief Juggler of All The Things(TM)  
+[Dave Jones](https://podcastindex.social/@dave) - Chief Juggler of All The Things(TM) aka The Pod Sage(TM)  
 [Adam Curry](https://podcastindex.social/@adam) - The Podfather(TM); bringer of vision  
 [Aric Mackie](https://podcastindex.social/@aric) - The Swiss Army Knife of the Index(TM), aka Shipper of Shirts - Appeared at his own Boardroom meeting in [Podcasting 2.0 Episode 35](http://adam.curry.com/html/PC203520210430Podcas-6cKvbPGTmjrbwCdHNtWZ6R9D3lH9mq.html).  
 [Drebscott](https://podcastindex.social/@Drebscott) - stacking Sats creating Chapters by the bushel.   
@@ -31,11 +31,12 @@ This list is certainly incomplete, and likely in error.
 [Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom guest on [Podcasting 2.0 Episode 50](http://adam.curry.com/html/PC205020210813Podcas-n6KRZ4qb827P30PgBqfRCtG1BHk0kP.html)  
 [Mike Clark](https://podcastindex.social/@Aerostatica) - Coined the term "Boostagram" for the message accompanying a "Boost"; enabled by Podcasting 2.0-enlightened apps and services  
 [Aaron](https://podcastindex.social/@aaron)  
-[Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) in feed authoring mode) - Boardroom guest on [Podcasting 2.0 Episode 48](http://adam.curry.com/html/PC204820210730Podcas-87zv2trwWQxcBVJpmPGSLqxnV5Lqtz.html)   
+[Steven Bell](https://podcastindex.social/@StevenB) - Creator of [CurioCaster](https://curiocaster.com/) (aka "CurioBLASTER"(TM) (or, "The Genny") in feed authoring mode) - Boardroom guest on [Podcasting 2.0 Episode 48](http://adam.curry.com/html/PC204820210730Podcas-87zv2trwWQxcBVJpmPGSLqxnV5Lqtz.html)   
 [Ben@rss.com](https://podcastindex.social/@Ben)  
 [Dan Benjamin](https://podcastindex.social/@danbenjamin) - Founder of [fireside.fm](https://fireside.fm/). Two-time Boardroom guest on Podcasting 2.0 [Episode 13](http://adam.curry.com/html/PC201220201127Podcas-klTpVKlpsJHrs2MMpQlpMw8fkQftTG.html) and [Episode 18](http://adam.curry.com/html/PC201820210101Podcas-s2NPqCPs1FbkckGgWVpxMG6fgL9JVH.html)  
 [Ben Slinger](https://github.com/bslinger)  
-[Matt Medeiros](https://podcastindex.social/@CastosMatt) - Director of Podcaster Success at [Castos podcast hosting]() - Boardroom guest on [Podcasting 2.0 Episode 61](http://adam.curry.com/html/PC206120211105Podcas-fCk8DVCWWtK8Whdxvp55Cb3nq1Nk6S.html)  
+[Matt Medeiros](https://podcastindex.social/@CastosMatt) - Director of Podcaster Success at [Castos podcast hosting](https://castos.com) - Boardroom guest on [Podcasting 2.0 Episode 61](http://adam.curry.com/html/PC206120211105Podcas-fCk8DVCWWtK8Whdxvp55Cb3nq1Nk6S.html)  
+[Craig Hewitt](https://castos.com) - [Castos podcast hosting](https://castos.com) - Boardroom guest on [Podcasting 2.0 Episode 61](http://adam.curry.com/html/PC206120211105Podcas-fCk8DVCWWtK8Whdxvp55Cb3nq1Nk6S.html)  
 [blackberrybat](https://podcastindex.social/@blackberrybat)  
 [Ryan Brunner](https://github.com/BennyKJohnson)  
 Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [Rss.com](https://rss.com/) - Boardroom guests on [Podcasting 2.0 Episode 22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html)  
@@ -51,10 +52,11 @@ Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [R
 [Joey](https://podcastindex.social/@joey)  
 [Andres Hubel](https://github.com/saerdnaer)  
 [Jeremy D. Gerdes](https://podcastindex.social/@seakintruth) - [podping-stats](https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/) / [podping-stats-bot](https://podcastindex.social/@podping_stats_toot_bot)  
-[James Cridland](https://podcastindex.social/@jamescridland) - [podnews](https://podnews.net/)  
+[James Cridland](https://podcastindex.social/@jamescridland) - Editor of [podnews](https://podnews.net/)- Boardroom guest on [Podcasting 2.0 Episode 67](http://adam.curry.com/html/PC206720211224Podcas-BZ60QL6SPP8rfWdBqhbHdgwlCcbsSF.html)  
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/)  
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/) - contributor of code for Episode level value splits.  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
+Jason Hudgins and Joseph Hill - [Podcastguru](https://podcastguru.io/) - Boardroom guests on Podcasting 2.0 Episode 66  
 [Adam Portrais](https://podcastindex.social/@adamportrais)  
 [AbleKirby](https://podcastindex.social/@ablekirby) - Co-host of the [Rare Encounter](https://rareencounter.net/) podcast  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
@@ -117,6 +119,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Dave Keeshan](https://podcastindex.social/@davekeeshan)  
 [ridethelightning](https://podcastindex.social/@ridethelightning)  
 [BaronCC](https://podcastindex.social/@BaronCC)  
+[Robert Sasuke](https://podcastindex.social/@robsasuke)  
 [Bandrew Scott](https://pod.social/@bandrew)  
 [Steve Wilkinson(cgWerks)](https://podcastindex.social/@cgWerks)  
 [Paul Erskine](https://podcastindex.social/@perskine)  
