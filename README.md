@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of January 4, 2022, ~1,030 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.  
+As of January 30, 2022, ~1,060 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.  
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -58,7 +58,7 @@ Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [R
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/)  
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/) - contributor of code for Episode level value splits.  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
-Jason Hudgins and Joseph Hill - [Podcastguru](https://podcastguru.io/) - Boardroom guests on Podcasting 2.0 Episode 66  
+Jason Hudgins and Joseph Hill - [Podcastguru](https://podcastguru.io/) - Boardroom guests on [Podcasting 2.0 Episode 66](http://adam.curry.com/html/PC206620211217Podcas-8JZbq9hCG5f8mzLqGHwNzJl12rV91D.html)  
 [Adam Portrais](https://podcastindex.social/@adamportrais)  
 [AbleKirby](https://podcastindex.social/@ablekirby) - Co-host of the [Rare Encounter](https://rareencounter.net/) podcast  
 [PhoneBoy](https://podcastindex.social/@phoneboy)  
@@ -87,11 +87,13 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Kahlil Lechelt](https://podcastindex.social/@kahlil) - UI Guy  
 [Fábio Emilio Costa](https://github.com/fabiocosta0305)  
 [twoleaves](https://github.com/TwoLeaves)  
+[Thomas Barrasso](https://github.com/masterial) - Author of the [PodLP](https://podlp.com/) podcast app on KaiOS and Boardroom guest on [Podcasting 2.0 Episode 70](http://adam.curry.com/html/PC207020220121Podcas-Dj423qrffjnmCFrRVhk46DtF8xMC6l.html)  
 [Nathan Gathright](https://xoxo.zone/@nathan)  
 [Kyrin Down](https://podcastindex.social/@Meremortals)  
 [S.W. Schilke](https://github.com/swschilke)  
 [CMike](https://podcastindex.social/@CMike)  
 [sakabato](https://podcastindex.social/@sakabato)  
+[Mert Certel (yulafezmesi)](https://github.com/yulafezmesi)  
 [Clay](https://mastodon.technology/@wclayf)  
 [Chris L-W](https://podcastindex.social/@chrislw)  
 [yoshimo](https://github.com/yoshimo)  
@@ -137,7 +139,9 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Robert Sasuke](https://podcastindex.social/@robsasuke)  
 [Average Random Joe](https://github.com/AverageRandomJoe)  
 [Stefan Thomas](https://github.com/justmoon)  
+[Ernesto A.](https://podcastindex.social/@ernestoacostame)  
 [Bandrew Scott](https://pod.social/@bandrew)  
+[Dustin Williams](https://podcastindex.social/@dustin)  
 [Steve Wilkinson(cgWerks)](https://podcastindex.social/@cgWerks)  
 [Paul Erskine](https://podcastindex.social/@perskine)  
 [rocky-III](https://github.com/rocky-III)  
@@ -196,11 +200,11 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Conley Owens](https://github.com/cco3)  
 [Keunes](https://github.com/keunes)  
 [Konstantin Yurchenko, Jr.](https://github.com/masterial)  
-[Thomas Barrasso](https://github.com/masterial)  
 [y20k](https://github.com/y20k)  
 [Mike](https://podcastindex.social/@msb)  
 [Chris803019](https://podcastindex.social/@Chris803019)  
 [Josh Chen](https://github.com/montekaka)  
+[Borys Kozielski](https://podcastindex.social/@boryskozielski)  
 [Chris Charabaruk](https://github.com/coldacid) [PodcastGenerator](https://podcastgenerator.net/)  
 [Besiuk](https://github.com/Besiuk)  
 [Kevin Finn](https://podcastindex.social/@kfinn) - Co-Founder at [Buzzsprout](https://www.buzzsprout.com/)  
@@ -238,6 +242,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [stpp2](https://github.com/stpp2)  
 [XRCB](https://podcastindex.social/@xrcb)  
 [Joe Beaudry](https://github.com/beaudryj)  
+[R-Podcast (Eric)](https://podcastindex.social/@rpodcast)  
 [Pedro Goncalves](https://github.com/pedromvpg)  
 [Sarasti Nishi](https://podcastindex.social/@sarasti)  
 [Myron Weber](https://podcastindex.social/@myron)  
