@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of March 26, 2022, ~1,120 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.  
+As of April 29, 2022, ~1,140 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server.  
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -27,6 +27,7 @@ This list is certainly incomplete, and likely in error.
 [dergigi](https://github.com/dergigi) - Bitcoin Luminary and Boardroom guest on [Podcasting 2.0 Episode 78](http://adam.curry.com/html/PC207720220318Podcas-c6tB5Z513kQBm75Gq0hXc5ThbXjPhF.html)  
 [Graham Krizek](https://blog.getvoltage.io/author/graham/) - Founder and CEO of [Voltage](https://voltage.cloud/). Boardroom guest on Podcasting 2.0 Episode 56  
 [snookfin](https://github.com/snookfin)  
+[Podverse](https://podcastindex.social/web/@podverse)  
 [Benjamin Johson](https://github.com/BennyKJohnson)  
 [Mitch Downey](https://podcastindex.social/@mitch) - [Podverse.fm](https://podverse.fm/) - Boardroom guest on [Podcasting 2.0 Episode 30](http://adam.curry.com/html/PC203020210326Podcas-Jf586kR7hjcFrcj0zrdNZBxMfh8ZPk.html)  
 [Max Hillebrand](https://podcastindex.social/@maxhillebrand) - Boardroom guest on [Podcasting 2.0 Episode 50](http://adam.curry.com/html/PC205020210813Podcas-n6KRZ4qb827P30PgBqfRCtG1BHk0kP.html)  
@@ -40,6 +41,7 @@ This list is certainly incomplete, and likely in error.
 [Craig Hewitt](https://castos.com) - [Castos podcast hosting](https://castos.com) - Boardroom guest on [Podcasting 2.0 Episode 61](http://adam.curry.com/html/PC206120211105Podcas-fCk8DVCWWtK8Whdxvp55Cb3nq1Nk6S.html)  
 [blackberrybat](https://podcastindex.social/@blackberrybat)  
 [Ryan Brunner](https://github.com/BennyKJohnson)  
+[Hindy Chris](https://podcastindex.social/@cmottes)  
 Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [Rss.com](https://rss.com/) - Boardroom guests on [Podcasting 2.0 Episode 22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html)  
 [DrunkPlato](https://podcastindex.social/@drunkplato)  
 [Brian of London](https://podcastindex.social/@brianoflondon) - He is a little bit into Hive. Boardroom guest on [Podcasting 2.0 Episode 57](http://adam.curry.com/html/PC205720211008Podcas-Z7qSx1X16NGXDBv7d7Nb7F4tsMjr9w.html) and [Episode 74](http://adam.curry.com/html/PC207420220218Podcas-5LwJlBc82BTBMLQ8kwN3Zw4xqsM5xq.html).   
@@ -74,6 +76,8 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Haas McCook](https://hassmccook.medium.com/) - Bitcoin Evangelist. Boardroom guest on [Podcasting 2.0 Episode 54](http://adam.curry.com/html/PC205420210917Podcas-bxSsTNn1z0KbP5KMMBxT8rtNZBHpXW.html) taking head-on the bitcoin energy usage canard.  
 [AdrianMachado](https://github.com/AdrianMachado)  
 [PJ Brunet](https://bitcoinhackers.org/@pj)  
+[Jason Evangelho](https://podcastindex.social/@Jason)  
+[Matt Hamilton](https://noagendasocial.com/@eriner)  
 [unfa](https://mastodon.social/@unfa)  
 [Herman Skledar](https://podcastindex.social/@hermanskledar)  
 [Clay Ferguson](https://fosstodon.org/@TheRealClay)  
@@ -84,6 +88,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Adam Drago](https://podcastindex.social/@atdrago)  
 [Paul](https://podcastindex.social/@sphinx_chat)  
 [Steffen](https://podcastindex.social/@sws)  
+[Joseph A. Nagy, Jr.](https://podcastindex.social/web/@janagyjr)  
 [Mark Koberlein](https://podcastindex.social/@mkober)  
 [Kahlil Lechelt](https://podcastindex.social/@kahlil) - UI Guy  
 [Fábio Emilio Costa](https://github.com/fabiocosta0305)  
@@ -115,11 +120,13 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Sam Sethi](https://podcastindex.social/@samsethi) of [POD LAND](https://podland.com/) - Boardroom guest on [Podcasting 2.0 Episode 54](http://adam.curry.com/html/PC203120210402Podcas-z6N0LFfJlnpR5wCq0rqchlN3sFBHn9.html)  
 [Matt Basta](https://github.com/mattbasta)  
 [Derpaderp](https://podcastindex.social/@Derpaderp)  
+[Jesse Kramer](https://podcastindex.social/@jessekramer)  
 [Nathan Pruzaniec](https://github.com/npruzaniec)  
 [Keith Gable - ziggythehamster](https://github.com/ziggythehamster)  
 [Andi](https://podcastindex.social/@andi)  
 [Michael Peloquin](https://github.com/mmp7700)  
 [LOUD](https://podcastindex.social/@LOUD)  
+[ChrisLAS](https://podcastindex.social/@ChrisLAS)  
 [Chad Farrow](https://podcastindex.social/@ChadF)  
 [Mark Hall](https://podcastindex.social/@markhallfilm) - First video on the index.  
 [knigge](https://podcastindex.social/@knigge)  
@@ -187,6 +194,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [GreatLand1959](https://podcastindex.social/web/@GreatLand1959)  
 [Richard Frost](https://podcastindex.social/@rfrost)  
 [Dude named Ben not named Ben](https://noagendasocial.com/@cam)  
+[Tyler Duprey](https://podcastindex.social/@tylerduprey)  
 [AntennaPod](https://fosstodon.org/@AntennaPod)  
 [ZipZappZopp](https://podcastindex.social/@SnakeMcduckets)  
 [Stonegate](https://github.com/stonega)  
@@ -195,6 +203,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Kolomona](https://podcastindex.social/@Kolomona)  
 [Klaas Foppen - klaaz0r](https://github.com/klaaz0r)  
 [Ian Poston](https://github.com/iposton)  
+[Simon Aronowitz](https://podcastindex.social/@SuperCerealSimon)  
 [Stuart Moore](https://github.com/stuartjmoore)  
 [Stacey Goers - staceygoers](https://podcastindex.social/@staceygoers)  
 [Cameron](https://podcastindex.social/@cameron)  
@@ -249,6 +258,8 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [William Entriken](https://github.com/fulldecent)  
 [Angelo Mandato - cio-blubrry](https://github.com/cio-blubrry)  
 [beachbar](https://bitcoinhackers.org/@beachbardave)  
+[The SLIEK Podcast](https://mastodon.social/@sliekpodcast)  
+[Brando Sellers](https://mastodon.social/@brandosellers)  
 [stpp2](https://github.com/stpp2)  
 [XRCB](https://podcastindex.social/@xrcb)  
 [Joe Beaudry](https://github.com/beaudryj)  
