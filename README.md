@@ -314,7 +314,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Tylerlacy](https://github.com/tylerlacy)  
 [Sir Spencer, Wolf of KC](https://podcastindex.social/@SirSpencer)  
 [Sir Peet](https://podcastindex.social/@sirpeet) - Hitter of mouths and [promoter of Podcasting 2.0](https://www.linkedin.com/feed/update/urn:li:activity:6857574727645478912) on LinkedIn.  
-[Tim Goudriaan](https://podcastindex.social/@codedmonkey)  
+[Tim Goudriaan](https://podcastindex.social/@codedmonkey) - Developer of the [No Agenda website](https://www.noagendashow.net) and [Octopod](https://www.octopod.dev)  
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
 [Sir Bargie](https://podcastindex.social/web/@Sir_Bargie)  
 [CTHTC](https://github.com/CTHTC)  
