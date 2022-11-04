@@ -1,11 +1,9 @@
-# Team
-The full cast that makes Podcasting 2.0 work.
+# The Podcasting 2.0 Team
+Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
 As of November 4, 2022 , ~1,240 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server having published ~82.7k Toots!  
 
-Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
-
-This list is certainly incomplete, and likely in error.
+This list attempts to list the full cast that makes Podcasting 2.0 work; including contributions and discussions on [Podcastindex.social](https://podcastindex.social), Github, etc. It is certainly incomplete, probably contains some duplciates, and likely in error.
 
 [Dave Jones](https://podcastindex.social/@dave) - Chief Juggler of All The Things(TM) aka The Pod Sage(TM)  
 [Adam Curry](https://podcastindex.social/@adam) - The Podfather(TM); bringer of vision  
@@ -66,9 +64,9 @@ Ben Richardson and [Alberto Betella](https://podcastindex.social/@alberto) of [R
 [Tom Rossi](https://podcastindex.social/@tomrossi7) - Cofounder of [Buzzsprout](https://www.buzzsprout.com/) - Boardroom guest on [Podcasting 2.0 Episode 73](ttp://adam.curry.com/html/PC207320220211Podcas-5Cj46VJQFq4kH9QcfZQSD1q0FlBJTb.html) and [Episode 93](http://adam.curry.com/html/PC209320220715Podcas-HRkzknnrhMsLc3q0LMRPKqR4ZhLjpg.html)  
 [Joey](https://podcastindex.social/@joey)  
 [Christian Saunders](https://github.com/kilobit)  
-[Andres Hubel](https://github.com/saerdnaer)  
+[Andreas Hubel](https://github.com/saerdnaer) aka [Andi](http://podcastindex.social/@andi) – [audio-api](http://github.com/saerdnaer/audio-api/) – [podcast-features](https://github.com/saerdnaer/podcast-features)  
 [Jeremy D. Gerdes](https://podcastindex.social/@seakintruth) - [podping-stats](https://seakintruth.github.io/podping-stats/mastodon-toot-bot-hive/stats/) / [podping-stats-bot](https://podcastindex.social/@podping_stats_toot_bot)  
-[James Cridland](https://podcastindex.social/@jamescridland) - Editor of [podnews](https://podnews.net/)- Boardroom guest on [Podcasting 2.0 Episode 67](http://adam.curry.com/html/PC206720211224Podcas-BZ60QL6SPP8rfWdBqhbHdgwlCcbsSF.html)  
+[James Cridland](https://podcastindex.social/@jamescridland) - Editor of [podnews](https://podnews.net/) - Boardroom guest on [Podcasting 2.0 Episode 67](http://adam.curry.com/html/PC206720211224Podcas-BZ60QL6SPP8rfWdBqhbHdgwlCcbsSF.html)  
 [John Chidgey](https://engineered.space/users/chidgey) - [The Engineered Network](https://engineered.network/); Podcaster, and creater of [Soundbiter](https://johnchidgey.github.io/)  
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) - [d11n.net](https://d11n.net/) - contributor of code for Episode level value splits.  
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)  
@@ -95,7 +93,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Kyle Hebert](https://podcastindex.social/@kyle) - [The Intergalactic Boom Box](https://podcastindex.org/podcast/3758236) - Boardroom guest on [Podcasting 2.0 Episode 102](http://adam.curry.com/html/PC2010220220916Podca-7xmJzR6ZgFR0kDcVLTbNSW2h84j3wp.html)  
 [Benjamin Bellamy](https://podcastindex.social/@benjaminbellamy) - [Castopod](https://castopod.org/) - Boardroom guest on [Podcasting 2.0 Episode 29](http://adam.curry.com/html/PC202920210319Podcas-zWMn5T8bHKPR2fCbt7KWv50RsCtstf.html)  
 [Trek TV](https://podcastindex.social/@trektv) - [Trek TV podcast](https://trektvpodcast.com)  
-[John Spurlock](https://podcastindex.social/@js) - Boardroom guest on [Podcasting 2.0 Episode 77](http://adam.curry.com/html/PC207720220311Podcas-GV5SqdxhMWcCtR4lKJSglll4gKK4JG.html)  
+[John Spurlock](https://podcastindex.social/@js) - Boardroom guest on [Podcasting 2.0 Episode 77](http://adam.curry.com/html/PC207720220311Podcas-GV5SqdxhMWcCtR4lKJSglll4gKK4JG.html) and [Podcasting 2.0 Episode 109](http://adam.curry.com/html/PC2010920221104Podca-j5WFdWg2fN5Zw5R13SlGgv7QJ8fGtH.html)  
 [Adam Drago](https://podcastindex.social/@atdrago)  
 [Paul](https://podcastindex.social/@sphinx_chat)  
 [John Leschinski](https://github.com/picard102)  
@@ -142,7 +140,6 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Nic Ivanov](https://vizzy.fm) - Boardroom guest on [Podcasting 2.0 Episode 88](http://adam.curry.com/html/PC208820220603Podcas-PKCTfbh48cdx8tL1k0CRdzFPb6wFfZ.html)  
 [Tim Apple](https://podcastindex.social/@nixer)  
 [Keith Gable - ziggythehamster](https://github.com/ziggythehamster)  
-[Andi](https://podcastindex.social/@andi)  
 [Paul Birken](https://podcastindex.social/@tonewrecker)  
 [SirVo](https://noagendasocial.com/@dowodenum)  
 [Michael Peloquin](https://github.com/mmp7700)  
@@ -216,7 +213,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Dave Jackson](https://podcastindex.social/@davejackson) of the [School of Podcasting](https://schoolofpodcasting.com/) fame.    
 [Wayne Parker](https://podcastindex.social/@waynejparker) - [Maps.fm](https://maps.fm)  
 [Rand](https://podcastindex.social/@Rand)  
-[Eric Teubert](https://podcastindex.social/@ericteubert)  
+[Eric Teubert](https://podcastindex.social/@ericteubert) - [Podlove.org](https://podlove.org) – [Podlovers.org](https://podlovers.org)  
 [James of the Dudes Named Ben](https://podcastindex.social/@james)  
 [Ali Abbas](https://podcastindex.social/@aliabbas)  
 [Playapod](https://podcastindex.social/@playapod)  
@@ -226,7 +223,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Eric P](https://github.com/ericpp)  
 [Howie Zhao](https://github.com/howiezhao)  
 [Dovydas Joksas](https://github.com/joksas) - [RSS Blue](https://rssblue.com/)  
-[Pof Magicfingers](https://github.com/PofMagicfingers)  
+[Pof Magicfingers](https://github.com/PofMagicfingers) - [Podcloud](https://github.com/podCloud)  
 [Claudiu Chereji](https://podcastindex.social/@Imnogenius)  
 [claud](https://podcastindex.social/@claudchereji)  
 [Andrew Camilleri](https://github.com/Kukks)  
@@ -329,7 +326,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Tylerlacy](https://github.com/tylerlacy)  
 [Sir Spencer, Wolf of KC](https://podcastindex.social/@SirSpencer)  
 [Sir Peet](https://podcastindex.social/@sirpeet) - Hitter of mouths and [promoter of Podcasting 2.0](https://www.linkedin.com/feed/update/urn:li:activity:6857574727645478912) on LinkedIn.  
-[Tim Goudriaan](https://podcastindex.social/@codedmonkey)  
+[Tim Goudriaan](https://podcastindex.social/@codedmonkey) - Developer of the [No Agenda website](https://www.noagendashow.net) and [Octopod](https://www.octopod.dev)  
 [Simon Dueckert](https://podcastindex.social/@sdueckert)  
 [Sir Bargie](https://podcastindex.social/web/@Sir_Bargie)  
 [CTHTC](https://github.com/CTHTC)  
@@ -344,7 +341,6 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [HamishMacEwan](https://podcastindex.social/web/@HamishMacEwan)  
 [Todd Cochrane](https://podcastindex.social/@Todd_Blubrry)  
 [McIntosh](https://podcastindex.social/web/@mcintosh)  
-[Pof Magicfingers](https://github.com/PofMagicfingers)  - [Podcloud](https://github.com/podCloud)  
 [Lucas](https://noagendasocial.com/@Lucasvos)  
 [Mike Neumann](https://podcastindex.social/@mikeneumann)  
 [Jeff Zellen](https://podcastindex.social/@Muppet1856)  
