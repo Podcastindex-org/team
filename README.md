@@ -1,7 +1,7 @@
 # Team
 The full cast that makes Podcasting 2.0 work.
 
-As of September 30, 2022 (on International Podcast Day), ~1,230 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server having published ~82.1k Toots!  
+As of November 4, 2022 , ~1,240 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server having published ~82.7k Toots!  
 
 Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
 
@@ -143,6 +143,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Tim Apple](https://podcastindex.social/@nixer)  
 [Keith Gable - ziggythehamster](https://github.com/ziggythehamster)  
 [Andi](https://podcastindex.social/@andi)  
+[Paul Birken](https://podcastindex.social/@tonewrecker)  
 [SirVo](https://noagendasocial.com/@dowodenum)  
 [Michael Peloquin](https://github.com/mmp7700)  
 [LOUD](https://podcastindex.social/@LOUD)  
@@ -172,9 +173,11 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Ioan Bizău](https://github.com/ibz)  
 [BaronCC](https://podcastindex.social/@BaronCC)  
 [Robert Sasuke](https://podcastindex.social/@robsasuke)  
+[Jason York](https://podcastindex.social/@jasonyork)  
 [Average Random Joe](https://github.com/AverageRandomJoe)  
 [Sir Pilgrim - Virginia](https://noagendasocial.com/@ThePilgrim)  
 [Ryan](https://podcastindex.social/@aqualith)  
+[Seth Goldstein](https://podcastindex.social/@goldsteinmedia)  
 [Stefan Thomas](https://github.com/justmoon)  
 [Ernesto A.](https://podcastindex.social/@ernestoacostame)  
 [Bandrew Scott](https://pod.social/@bandrew)  
@@ -219,6 +222,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Playapod](https://podcastindex.social/@playapod)  
 [David Medus](https://social.medusmedia.com/@medus)  
 [Chirag](https://github.com/chiragnd)  
+[Evan Kaloudis](https://podcastindex.social/@zeus)   
 [Eric P](https://github.com/ericpp)  
 [Howie Zhao](https://github.com/howiezhao)  
 [Dovydas Joksas](https://github.com/joksas) - [RSS Blue](https://rssblue.com/)  
@@ -294,6 +298,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [LPS](https://masto.1146.nohost.me/@lps)  
 [Mike Van Heyde](https://podcastindex.social/@ivy)  
 [Alvaro Munoz-Aycuens](https://podcastindex.social/@alvaro)  
+[rastacalavera](https://podcastindex.social/@rastacalavera)  
 [Wolf](https://github.com/vv01f)  
 [Dave Hamilton](https://podcastindex.social/@DaveHamilton)  
 [Scott](https://podcastindex.social/@maxburn)  
@@ -302,6 +307,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [jstnplmr](https://podcastindex.social/@jstnplmr)  
 [N4VX](https://podcastindex.social/@N4VX)  
 [xeroforhire](https://podcastindex.social/@xeroforhire)  
+[GeekNews](https://geeknews.chat/@geeknews)  
 [Joshua Dennis](https://podcastindex.social/web/@floydianslips)  
 [Yassine Doghri](https://github.com/yassinedoghri)  
 [William Entriken](https://github.com/fulldecent)  
@@ -311,6 +317,7 @@ Paul Itoi and Evan Feenstra of [Sphinx Chat](https://sphinx.chat/) - Boardroom g
 [Brando Sellers](https://mastodon.social/@brandosellers)  
 [stpp2](https://github.com/stpp2)  
 [XRCB](https://podcastindex.social/@xrcb)  
+[EconomicHitman](https://podcastindex.social/@Economic_Hitman)  
 [Joe Beaudry](https://github.com/beaudryj)  
 [Signs Of New Growth](https://podcastindex.social/web/@SignsOfNewGrowth)  
 [R-Podcast (Eric)](https://podcastindex.social/@rpodcast)  
