@@ -1,9 +1,9 @@
 # The Podcasting 2.0 Team
-Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the github.
+Somewhere along the way during one of the early [Podcasting 2.0 Podcast](https://podcastindex.org/podcast/920666) (aka The Board Meeting) episodes, [Adam](https://podcastindex.social/@adam), mentioned that he considered anyone posting to podcastindex.social as part of the team and golly, shouldn't we have a list on the GitHub.
 
 January 13, 2022: more than 1,290 users were registered to the [Podcastindex.socal](https://podcastindex.social/) Mastadon server having published more than 91.9k Toots with approximately 325 active users!
 
-This list attempts to list the full cast that makes Podcasting 2.0 work; including contributions and discussions on [Podcastindex.social](https://podcastindex.social) and the [Podcastindex.org Github](https://github.com/Podcastindex-org) repo. It is certainly incomplete, probably contains some duplciates, and is likely in error.
+This list attempts to list the full cast that makes Podcasting 2.0 work; including contributions and discussions on [Podcastindex.social](https://podcastindex.social) and the [Podcastindex.org Github](https://github.com/Podcastindex-org) repo. It is certainly incomplete, probably contains some duplicates, and is likely in error.
 
 | Name | Known for | Guest Appearances |
 | ---- | --------- | ----------------- |
@@ -72,7 +72,7 @@ This list attempts to list the full cast that makes Podcasting 2.0 work; includi
 [John Chidgey](https://engineered.space/users/chidgey) | [The Engineered Network](https://engineered.network/); Podcaster, and creater of [Soundbiter](https://johnchidgey.github.io/)
 [Dennis Reimann (d11n)](https://bitcoinhackers.org/@d11n) | [d11n.net](https://d11n.net/) - contributor of code for Episode level value splits.
 [Andy Lehman](https://podcastindex.social/@Lehmancreations)
-[Jason Hudgins](https://podcastindex.social/@podcastguru) | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam.curry.com/html/PC206620211217Podcas-8JZbq9hCG5f8mzLqGHwNzJl12rV91D.html)
+[Jason Hudgins](https://podcastindex.social/@podcastguru) | CEO of [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam.curry.com/html/PC206620211217Podcas-8JZbq9hCG5f8mzLqGHwNzJl12rV91D.html)
 Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam.curry.com/html/PC206620211217Podcas-8JZbq9hCG5f8mzLqGHwNzJl12rV91D.html)
 [Adam Portrais](https://podcastindex.social/@adamportrais)
 [AbleKirby](https://podcastindex.social/@ablekirby) | Co-host of the [Rare Encounter](https://rareencounter.net/) podcast
