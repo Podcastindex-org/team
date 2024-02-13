@@ -5,8 +5,8 @@ January 13, 2022: more than 1,290 users were registered to the [Podcastindex.soc
 
 This list attempts to list the full cast that makes Podcasting 2.0 work; including contributions and discussions on [Podcastindex.social](https://podcastindex.social) and the [Podcastindex.org Github](https://github.com/Podcastindex-org) repo. It is certainly incomplete, probably contains some duplciates, and is likely in error.
 
-| Name | Known for | Gues Appearances |
-| ---- | --------- | ---------------- |
+| Name | Known for | Guest Appearances |
+| ---- | --------- | ----------------- |
 [Dave Jones](https://podcastindex.social/@dave) | Chief Juggler of All The Things(TM) aka The Pod Sage(TM)
 [Adam Curry](https://podcastindex.social/@adam) | The Podfather(TM); bringer of vision
 [Aric Mackie](https://podcastindex.social/@aric) | The Swiss Army Knife of the Index(TM), aka Shipper of Shirts | Episode [35](http://adam.curry.com/html/PC203520210430Podcas-6cKvbPGTmjrbwCdHNtWZ6R9D3lH9mq.html)
@@ -52,18 +52,18 @@ This list attempts to list the full cast that makes Podcasting 2.0 work; includi
 [blackberrybat](https://podcastindex.social/@blackberrybat)
 [Ryan Brunner](https://github.com/BennyKJohnson)
 [Hindy Chris](https://podcastindex.social/@cmottes)
-[Ben Richardson](https://podcastindex.social/@Ben)  | Co-founder of [RSS.com](https://rss.com/) | Episode [22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html)
-[Alberto Betella](https://podcastindex.social/@alberto) | Co-founder of [RSS.com](https://rss.com/) | Episode [22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html) & [145](http://adam.curry.com/html/PC2014520230908Podca-jRxdv2xL5Hpc4xvJtS8082t7PVnfNF.html)
+[Ben Richardson](https://podcastindex.social/@Ben)  | Co-Founder of [RSS.com](https://rss.com/) | Episode [22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html)
+[Alberto Betella](https://podcastindex.social/@alberto) | Co-Founder of [RSS.com](https://rss.com/) | Episode [22](http://adam.curry.com/html/PC202220210129Podcas-Kj8pLFSLVvbMMq2jz3bxJH9p0Rjm4B.html) & [145](http://adam.curry.com/html/PC2014520230908Podca-jRxdv2xL5Hpc4xvJtS8082t7PVnfNF.html)
 [DrunkPlato](https://podcastindex.social/@drunkplato)
 [Brian of London](https://podcastindex.social/@brianoflondon) | He is a little bit into Hive. | Episode [57](http://adam.curry.com/html/PC205720211008Podcas-Z7qSx1X16NGXDBv7d7Nb7F4tsMjr9w.html) & [74](http://adam.curry.com/html/PC207420220218Podcas-5LwJlBc82BTBMLQ8kwN3Zw4xqsM5xq.html)
 [Oscar Merry](https://podcastindex.social/@merryoscar) | Founder of [Fountain](https://www.fountain.fm/) | Episode 59 and [118](http://adam.curry.com/html/PC2011820230120Podca-XrMfvwqZMRbTmx9Jw300650G2kmfZG.html)
 [Yassine Doghri](https://podcastindex.social/@yassinedoghri) [(GitHub)](https://github.com/yassinedoghri) | [Castopod](https://castopod.org/) | Episode [84](http://adam.curry.com/html/PC208420220506Podcas-9vksRH4FlPRKdPB0QqFRHZ1GnmRNbz.html)
-[Mark Asquith](https://podcastindex.social/@MrAsquith) | Co-founder of [Captivate](https://www.captivate.fm/) | Episode [34](http://adam.curry.com/html/PC203420210423Podcas-DF1zdlG5NcJV1PlHvL4tZLjSFBlxXT.html)
-[Kieran McKeefery](https://podcastindex.social/@kieranmckeefery) | Co-founder of [Captivate](https://www.captivate.fm/) | Episode [34](http://adam.curry.com/html/PC203420210423Podcas-DF1zdlG5NcJV1PlHvL4tZLjSFBlxXT.html)
+[Mark Asquith](https://podcastindex.social/@MrAsquith) | Co-Founder of [Captivate](https://www.captivate.fm/) | Episode [34](http://adam.curry.com/html/PC203420210423Podcas-DF1zdlG5NcJV1PlHvL4tZLjSFBlxXT.html)
+[Kieran McKeefery](https://podcastindex.social/@kieranmckeefery) | Co-Founder of [Captivate](https://www.captivate.fm/) | Episode [34](http://adam.curry.com/html/PC203420210423Podcas-DF1zdlG5NcJV1PlHvL4tZLjSFBlxXT.html)
 [Christopher Isene](https://podcastindex.social/@cisene) | [Keybase](https://keybase.io/cisene) and generally known as a Regex Wizard(TM)
 [Lionel Gettliffe-Rudling - Majester](https://github.com/Majester)
 [Ryan Gentry](https://lightninglabs.substack.com/) | aka "the Major-Domo of the Lightning Network" | Episode [32](http://adam.curry.com/html/PC203220210409Podcas-vwpdV3CNhhvMjJpsMv3Ms1T7hHQmjF.html)
-[Tom Rossi](https://podcastindex.social/@tomrossi7) | Co-founder of [Buzzsprout](https://www.buzzsprout.com/) | Episode [73](ttp://adam.curry.com/html/PC207320220211Podcas-5Cj46VJQFq4kH9QcfZQSD1q0FlBJTb.html), [93](http://adam.curry.com/html/PC209320220715Podcas-HRkzknnrhMsLc3q0LMRPKqR4ZhLjpg.html) & [128](http://adam.curry.com/html/PC2012820230407Podca-fQn4H91S75X8VGXtLXNjSLdcLLqRTC.html)
+[Tom Rossi](https://podcastindex.social/@tomrossi7) | Co-Founder of [Buzzsprout](https://www.buzzsprout.com/) | Episode [73](ttp://adam.curry.com/html/PC207320220211Podcas-5Cj46VJQFq4kH9QcfZQSD1q0FlBJTb.html), [93](http://adam.curry.com/html/PC209320220715Podcas-HRkzknnrhMsLc3q0LMRPKqR4ZhLjpg.html) & [128](http://adam.curry.com/html/PC2012820230407Podca-fQn4H91S75X8VGXtLXNjSLdcLLqRTC.html)
 [Joey](https://podcastindex.social/@joey)
 [Christian Saunders](https://github.com/kilobit)
 [Andreas Hubel](https://github.com/saerdnaer) aka [Andi](http://podcastindex.social/@andi) | [audio-api](http://github.com/saerdnaer/audio-api/) – [podcast-features](https://github.com/saerdnaer/podcast-features)
@@ -167,7 +167,7 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Rui Salgado](https://github.com/ruisalgado)
 [Jared Mash](https://podcastindex.social/@jarednxx)
 [Douglas Kastle](https://github.com/douglaskastle)
-[Andrew Kuklewicz](https://github.com/kookster) | CTO @ PRX
+[Andrew Kuklewicz](https://github.com/kookster) | CTO at PRX
 [Ian Forrester](https://mas.to/@cubicgarden)
 [Behind the SchEmEs](https://podcastindex.social/@behindthesch3m3s)
 [Dave Keeshan](https://podcastindex.social/@davekeeshan)
@@ -216,7 +216,7 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Indiana Jim](https://podcastindex.social/@indianajim)
 [william maggot̶s](https://liberal.city/@wjmaggos)
 [ChadF](https://noagendasocial.com/@farrocha)
-[Duke](https://github.com/dukex) | [megafono.host](https://www.megafono.host/)
+[Duke](https://github.com/dukex) | Founder of [megafono.host](https://www.megafono.host/)
 [Ryan Hirsch](https://podcastindex.social/@RyanHirsch) | CSS-injecting funny guy. Keeper of the [podcast-partytime](https://www.npmjs.com/package/podcast-partytime) Podcast Parser.
 [Dave Jackson](https://podcastindex.social/@davejackson) | [School of Podcasting](https://schoolofpodcasting.com/)
 [Wayne Parker](https://podcastindex.social/@waynejparker) | [Maps.fm](https://maps.fm)
@@ -229,8 +229,8 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Evan Kaloudis](https://podcastindex.social/@zeus)
 [Eric P](https://github.com/ericpp)
 [Howie Zhao](https://github.com/howiezhao)
-[Dovydas Joksas](https://github.com/joksas) | [RSS Blue](https://rssblue.com/) | Episode [147](http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html)
-[Pof Magicfingers](https://github.com/PofMagicfingers) | [Podcloud](https://github.com/podCloud)
+[Dovydas Joksas](https://github.com/joksas) | Founder of [RSS Blue](https://rssblue.com/) | Episode [147](http://adam.curry.com/html/PC2014720230922Podca-X2f5GDQ25Rjshg5sWLHNNf6V1F0W3D.html)
+[Pof Magicfingers](https://github.com/PofMagicfingers) | CEO of [Podcloud](https://github.com/podCloud)
 [Claudiu Chereji](https://podcastindex.social/@Imnogenius)
 [claud](https://podcastindex.social/@claudchereji)
 [Andrew Camilleri](https://github.com/Kukks)
@@ -252,7 +252,7 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Stuart Moore](https://github.com/stuartjmoore)
 [Ron Ploof](https://podcastindex.social/@ronploof) | [Boardroom Statistician](https://griddlecakes.com/nstrends/)
 [Stacey Goers](https://podcastindex.social/@staceygoers)
-[Cameron](https://podcastindex.social/@cameron) | [IPFS Podcasting]() | Episode [145](http://adam.curry.com/html/PC2014520230908Podca-jRxdv2xL5Hpc4xvJtS8082t7PVnfNF.html)
+[Cameron](https://podcastindex.social/@cameron) | [IPFS Podcasting](https://ipfspodcasting.net/) | Episode [145](http://adam.curry.com/html/PC2014520230908Podca-jRxdv2xL5Hpc4xvJtS8082t7PVnfNF.html)
 [jmikedupont2](https://github.com/jmikedupont2)
 [Gary](https://podcastindex.social/@Borg)
 [419monk](https://github.com/419monk)
@@ -296,7 +296,7 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [ttepasse](https://github.com/ttepasse)
 [Charles Beckwith](https://podcastindex.social/@charlesbeckwith)
 [IceCubeSoup](https://podcastindex.social/@IceCubeSoup)
-[Chris Quamme Rhoden - cqr](https://github.com/cqr) | Co-Founder / CTO @RadioPublic
+[Chris Quamme Rhoden](https://github.com/cqr) | Co-Founder / CTO @RadioPublic
 [Mathis Bullinger](https://podcastindex.social/@mathis)
 [Bigaston](https://github.com/Bigaston)
 [Lightning Store](https://podcastindex.social/@ltngstore)
