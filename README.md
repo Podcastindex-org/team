@@ -36,7 +36,7 @@ This list attempts to list the full cast that makes Podcasting 2.0 work; includi
 [Podverse](https://podcastindex.social/web/@podverse)
 [Paul Salzman](https://podcastindex.social/@psimac)
 [volcanobacon](https://github.com/valcanobacon)
-[Boobury](https://podcastindex.social/@boobury) | #iykyk. He's... different; with a set of skilz. .gif genius (yes, that rhymes - fight me) - A bit of a force of nature. and helpful.
+[Boobury](https://podcastindex.social/@boobury) | #iykyk. He's... different; with a set of skilz. .gif genius (yes, that rhymes - fight me) - A bit of a force of nature. and helpful. | Episode [174](https://www.podpage.com/podcasting-20/174-nice-and-frothy/)
 [Martin Tillmann](https://github.com/Mtillmann) | [Chaptertool](https://mtillmann.github.io/chaptertool/)
 [Benjamin Johson](https://github.com/BennyKJohnson)
 [Mitch Downey](https://podcastindex.social/@mitch) | [Podverse.fm](https://podverse.fm/) | Episodes [30](http://adam.curry.com/html/PC203020210326Podcas-Jf586kR7hjcFrcj0zrdNZBxMfh8ZPk.html), [85](http://adam.curry.com/html/PC208520220513Podcas-lCjCV7rQsplH0FXDNmqTtP5T8rSslw.html) & [116](http://adam.curry.com/html/PC20116202320106Podc-GCCqnzHw5GR1BFSMRwKp7Pzv5gcVkz.html)
@@ -137,7 +137,7 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Einundzwanzig](https://podcastindex.social/@einundzwanzig) | [Einundzwanzig podcast](https://einundzwanzig.space/)
 [Mike Dell](https://podcastindex.social/@mgdell) | [Blubrry](https://blubrry.com) | Episode [120](http://adam.curry.com/html/PC2012020230203Podca-dxCZPJL6fpmsRpDv4C5hn0qd96wFl2.html) & [153](http://adam.curry.com/html/PC2015320231103Podca-BfSG1jdMMmx5t4xqSH7Sgcj5KkRFwB.html)
 [Andrew Shell](https://github.com/andrewshell)
-[Sam Sethi](https://podcastindex.social/@samsethi) | CEO of [Podfans.fm](https://podfans.fm/) | Episodes [54](http://adam.curry.com/html/PC203120210402Podcas-z6N0LFfJlnpR5wCq0rqchlN3sFBHn9.html) & [131](http://adam.curry.com/html/PC2013120230505Podca-FcnfdJLqQcScqSpnjKhXTqhhtRLlqD.html)
+[Sam Sethi](https://podcastindex.social/@samsethi) | CEO of [Podfans.fm](https://podfans.fm/) | Episodes [54](http://adam.curry.com/html/PC203120210402Podcas-z6N0LFfJlnpR5wCq0rqchlN3sFBHn9.html), [131](http://adam.curry.com/html/PC2013120230505Podca-FcnfdJLqQcScqSpnjKhXTqhhtRLlqD.html), and [176](https://www.podpage.com/podcasting-20/176-angel-number/)
 [Matt Basta](https://github.com/mattbasta)
 [Derpaderp](https://podcastindex.social/@Derpaderp)
 [Jesse Kramer](https://podcastindex.social/@jessekramer)
@@ -347,3 +347,4 @@ Joseph Hill | [Podcast Guru](https://podcastguru.io/) | Episode [66](http://adam
 [Fredrik Björeman](https://github.com/bjoreman) | Maintainer of [Podcast Chapters](https://chaptersapp.com/)
 [Amorphous](https://github.com/amorphous)
 [dowodenum](https://github.com/dowodenum)
+[Eric Nantz](https://podcastindex.social/@rpodcast) | Podcasting 2.0 Data Scientist | Episode [179](https://www.podpage.com/podcasting-20/179-swiss-army-app/)
